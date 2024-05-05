@@ -1,3 +1,7 @@
+# Team Organization Project
+
+Project made in React to sort teams.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
