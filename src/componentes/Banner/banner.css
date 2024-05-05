@@ -1,0 +1,12 @@
+.banner{
+    background-color: #FFF;
+    text-align: center;
+    border: solid 1px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.banner img{
+    max-width: 100%;
+}
